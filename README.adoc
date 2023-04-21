@@ -1,6 +1,6 @@
 = Cloudera Data Warehouse - Workshop Student Guide
 
-image::images/misc/AMERWorkshopBanner.png[]
+image::images/misc/AMERPartnerWSBanner.png[]
 
 '''
 
