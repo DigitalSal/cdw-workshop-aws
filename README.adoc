@@ -18,11 +18,6 @@ Version : 1.0.0 `27th March 2023` +
 == Partner Handbook
 https://github.com/mmehra12/Impact24[Partner Handbook]. +
 
-== Additional Labs/Videos
-1. https://github.com/DashDipti/partner-summit-2023[End-to-End Workshop (GitHub)] - This GitHub is a great way to familarize yourself with different CDP Data services. +
-2. https://www.youtube.com/watch?v=GcNeCGFdmDw[End-to-End Workshop (Recording)] - Watch this video for the End-to-End workshop walkthrough.  +
-
-
 == Pre-requisites
 
 . Laptop with a supported OS (Windows 7 not supported) or MacBook.
