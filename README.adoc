@@ -119,7 +119,7 @@ In the labs when you see: +
 Please use the login URL: http://3.23.227.113/auth/realms/master/protocol/saml/clients/cdp-sso[Workshop login]. +
 Enter the `Workshop Login Username` and `Workshop Login Password` shared by your instructor. +
 
-(*Note*: Note that your username would be something like `wuser00@workshop.com` and not just `wuser00`). +
+(*Note*: Note that your username would be something like `imday_amer###`, e.g. `imday_amer55`). +
 image:images/step1b/1-1a.PNG[] +
 
 //Update the password with your own password.
