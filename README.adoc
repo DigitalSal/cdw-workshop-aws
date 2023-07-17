@@ -206,7 +206,7 @@ SHOW DATABASES;
 
 image:images/step3/31-3.png[] + 
 
-=== 3.2 Run the following DDL in HUE for the CDW Virtual Warehouse - `1-10hive` +
+=== 3.2 Run the following DDL in HUE for your assigned CDW Virtual Warehouse +
 This will create External Tables on CSV Data Files that have been uploaded previously by your instructor in AWS S3. This provides a fast way to allow SQL layer on top of data in cloud storage.
 
 - Copy paste the following into HUE. +
