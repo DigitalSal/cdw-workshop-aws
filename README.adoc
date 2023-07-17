@@ -176,9 +176,9 @@ Click the below for *`Detailed Documentation(s)`*: +
 
 The objective of this step is to create External tables on top of raw CSV files sitting in cloud storage (In this case it has been stored in AWS S3 by the instructor) and then run few queries to access the data via SQL using HUE. +
 
-=== 3.1 Open Hue for CDW Virtual Warehouse - `1-10hive` +
+=== 3.1 Open Hue for your assigned CDW Virtual Warehouse (Hive) - `amer-im-day-01 thru amer-im-day-15` +
 
-- Click on the image:images/step3/hue.png[] button on the right upper corner of `1-10hive` as shown in the screenshot below. +
+- Click on the image:images/step3/hue.png[] button on the right upper corner of your assigned Virtual Warehouse as shown in the screenshot below. +
 image:images/step3/31-1.png[] +
 
 
